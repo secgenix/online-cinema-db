@@ -20,7 +20,7 @@
 |---|---|
 | ER-диаграмма (PNG / PDF) | [er/er_diagram.png](er/er_diagram.png), [er/er_diagram.pdf](er/er_diagram.pdf) |
 | Анализ требований, описание структуры, типы данных, обоснование 3НФ | [report/](report/) — раздел 1 отчёта, docx и pdf |
-| Дневник практики | [diary/](diary/) |
+| Дневник практики | [Google Документ](https://docs.google.com/document/d/1jAh5NQbXFcoZvZOp9DPmTbrsXT71Su6VpN0C5JQwpJg/), копия в [diary/](diary/) |
 
 ## Модель данных
 
